@@ -8,13 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **C#**
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **WPF**
 
 - 👨‍💻 All of my projects are available at [https://astounding-platypus-1b369b.netlify.app/](https://astounding-platypus-1b369b.netlify.app/)
-
-- 💬 Ask me about **HTML, CSS**
 
 - 📫 How to reach me **esmat.saarwari@gmail.com**
 
