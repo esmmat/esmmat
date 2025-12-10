@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **WPF**
 
-- 👨‍💻 All of my projects are available at [https://astounding-platypus-1b369b.netlify.app/](https://astounding-platypus-1b369b.netlify.app/)
-
-- 📫 How to reach me **esmat.saarwari@gmail.com**
+- 📫 How to reach me **esmat.sarwari@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
