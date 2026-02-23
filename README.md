@@ -13,7 +13,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-> Deep in vibe coding mode — building AI-powered web apps at speed. From desktop tools in C#/WPF to full AI products in TypeScript. Turning ideas into real things fast.
+> Building AI-powered web apps. From desktop tools in C#/WPF to full AI products in TypeScript. Turning ideas into real things.
 
 ## Public Projects
 
@@ -43,9 +43,9 @@
 
 ## What I'm Doing
 
-- **Vibe coding with AI** – Building full AI web apps fast using modern tools and LLMs
-- **Shipping real products** – BriefBlick, KFZ-Express are real-world apps, not just toys
 - **Growing in WPF & C#** – Serious desktop tooling with QuickZeit and admin apps
+- **Shipping real products** – BriefBlick, KFZ-Express are real-world apps
+- **Vibe coding with AI** – Building full AI web apps fast using modern tools and LLMs
 - **Rapid prototyping** – From idea to working product as fast as possible
 
 ## Connect
@@ -64,7 +64,6 @@
 <details>
 <summary>Random Facts</summary>
 
-- Deep in vibe coding — AI is my co-pilot
 - Building AI web apps in TypeScript while mastering C# desktop tools
 - Love tackling real world problems (German bureaucracy, time tracking, automotive)
 - Fan of clean UI and smooth UX
