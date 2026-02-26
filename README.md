@@ -67,5 +67,5 @@
 - Building AI web apps in TypeScript while mastering C# desktop tools
 - Love tackling real world problems (German bureaucracy, time tracking, automotive)
 - Fan of clean UI and smooth UX
-
+ 
 </details>
